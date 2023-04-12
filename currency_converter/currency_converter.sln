@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "currency_converter", "currency_converter.csproj", "{237F59B3-7BBA-40B6-8F40-72D71997CB39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{237F59B3-7BBA-40B6-8F40-72D71997CB39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{237F59B3-7BBA-40B6-8F40-72D71997CB39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{237F59B3-7BBA-40B6-8F40-72D71997CB39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{237F59B3-7BBA-40B6-8F40-72D71997CB39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
